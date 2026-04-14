@@ -1,1 +1,1 @@
-# signature-pur-php
+# 📊 JobMatch AI — Score de compatibilité CV / offre
